@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # SFDX  App
 
 ## Dev, Build and Test
@@ -14,5 +14,4 @@
 
 
 =======
-# DX_Packaging
->>>>>>> origin/master
+
