@@ -1,15 +1,25 @@
 {
-  "packageDirectories": [
-    {
-      "path": "DX_Demo",
-      "default": true
-    },
-    {
-      "path": "force-app",
-      "default": false
+    "packageDirectories": [
+        {
+            "path": "DX_Demo",
+            "default": true,
+            "package": "DX_Demo",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT"
+        },
+        {
+            "path": "force-app",
+            "default": false,
+            "package": "force-app",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT"
+        }
+    ],
+    "namespace": "",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "44.0",
+    "packageAliases": {
+        "DX_Demo": "0Ho1U000000blO4SAI",
+        "force-app": "0Ho1U000000blO9SAI"
     }
-  ],
-  "namespace": "",
-  "sfdcLoginUrl": "https://login.salesforce.com",
-  "sourceApiVersion": "44.0"
 }
