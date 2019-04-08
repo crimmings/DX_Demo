@@ -10,5 +10,3 @@ and pulling changes from the Scratch Org back to your local machine.
 
 SFDX commands introduced for the first time are hyperlinked to Salesforce documentation for the command.
 In most cases, there are more parameters available to a command than what we'll use in this demo.
-
-[Demo 1 Documentation](https://www.dropbox.com/s/6kkcugkss0r7ljw/DX\_Demo\_1\_Source\_to\_Scratch.pdf?dl=0)
