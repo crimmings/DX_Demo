@@ -130,7 +130,7 @@
   </types>
   <types>
     <members>*</members>
-    <name>EmailFolder</name>
+    <name>EmailFolder</name> 
   </types>
   <types>
     <members>*</members>
@@ -324,5 +324,5 @@
     <members>*</members>
     <name>WorkflowTask</name>
   </types>
-  <version>44.0</version>
+  <version>45.0</version>
 </Package>

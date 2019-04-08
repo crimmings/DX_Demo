@@ -3,10 +3,6 @@
         {
             "path": "DX_Demo",
             "default": true
-        },
-        {
-            "path": "force-app",
-            "default": false
         }
     ],
     "namespace": "",
