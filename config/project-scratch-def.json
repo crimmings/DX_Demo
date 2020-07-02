@@ -1,7 +1,7 @@
 {
     "orgName": "Demo Company",
     "edition": "Developer",
-    "orgPreferences" : {
-        "enabled": ["S1DesktopEnabled"]
-    }
+    
+    // This is a bare minimum example of a config file. For more information on building this out to match the Org you want to mirror, see the documentation here:
+    // https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_scratch_orgs_def_file_config_values.htm
 }
